@@ -1,0 +1,11 @@
+# Visual Studio
+
+2022 Professional（专业版）： TD244-P4NB7-YQ6XK-Y8MMM-YWV2J
+
+2022的智能代码提示修改：
+
+工具->选项->Intellicode
+
+![.png](image/.png)
+
+2022%20Professional%EF%BC%88%E4%B8%93%E4%B8%9A%E7%89%88%EF%BC%89%EF%BC%9A%C2%A0TD244-P4NB7-YQ6XK-Y8MMM-YWV2J%0A%0A%0A2022%E7%9A%84%E6%99%BA%E8%83%BD%E4%BB%A3%E7%A0%81%E6%8F%90%E7%A4%BA%E4%BF%AE%E6%94%B9%EF%BC%9A%0A%E5%B7%A5%E5%85%B7-%3E%E9%80%89%E9%A1%B9-%3EIntellicode%0A!%5B6b93e62c884a3aa26f075987a59dc0f5.png%5D(en-resource%3A%2F%2Fdatabase%2F968%3A1)%0A
