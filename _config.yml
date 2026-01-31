@@ -26,6 +26,9 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
+# 远程主题配置（Beautiful Jekyll 官方源）
+remote_theme: daattali/beautiful-jekyll
+
 ################
 # --- Logo --- #
 ################
@@ -244,6 +247,7 @@ footer-hover-col: "#0085A1"
 #  reactions-enabled: 1
 #  emit-metadata: 0
 #  theme: light
+repository: xuhang123456a/xuhang123456a.GitHub.io
 
 ################
 # --- Misc --- #
@@ -299,6 +303,11 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
