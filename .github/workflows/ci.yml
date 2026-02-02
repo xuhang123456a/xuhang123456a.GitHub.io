@@ -10,7 +10,7 @@ jobs:
         with:
           ruby-version: '3.3'
       - name: Install dependencies
-        run: bundle install && bundle exec appraisal install
+
       - name: Setup Pages
         id: configure-pages
         uses: actions/configure-pages@v5
