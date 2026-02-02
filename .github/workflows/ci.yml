@@ -9,6 +9,7 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
+          bundler-cache: true  # <--- 加上这一行！
       - name: Setup Pages
         id: configure-pages
         uses: actions/configure-pages@v5
