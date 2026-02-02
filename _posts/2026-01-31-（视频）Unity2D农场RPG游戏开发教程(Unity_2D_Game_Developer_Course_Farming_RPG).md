@@ -1,7 +1,7 @@
 ---
 layout: post
 title: （视频）Unity2D农场RPG游戏开发教程(Unity_2D_Game_Developer_Course_Farming_RPG)
-date: 2026-02-02 23:50:22 +0000
+date: 2026-01-31 23:04:22 +0000
 author: xuhang
 tags: ["游戏引擎", "Unity", "UE", "unity学习"]
 ---
@@ -12,38 +12,37 @@ tags: ["游戏引擎", "Unity", "UE", "unity学习"]
 
 ---
 
-- [（视频）Unity2D农场RPG游戏开发教程(Unity\_2D\_Game\_Developer\_Course\_Farming\_RPG)](#视频unity2d农场rpg游戏开发教程unity_2d_game_developer_course_farming_rpg)
-- [1-001 Course Introduction](#1-001-course-introduction)
-- [2-001 Unity and Visual Studio Installation](#2-001-unity-and-visual-studio-installation)
-- [3-002 SourceTree Installation and Using SourceTree With The Supplied Unity Project](#3-002-sourcetree-installation-and-using-sourcetree-with-the-supplied-unity-project)
-- [4-001 Game Architecture and Course Structure](#4-001-game-architecture-and-course-structure)
-- [5-001 Project Creation](#5-001-project-creation)
-- [6-002 Review Custom Package](#6-002-review-custom-package)
-- [7-001 Player Gameobject Set-Up](#7-001-player-gameobject-set-up)
-- [8-002 Player Class and Abstract Singleton Class](#8-002-player-class-and-abstract-singleton-class)
-- [9-003 Player Animation Controllers](#9-003-player-animation-controllers)
-- [10-004 Events and Event Handler](#10-004-events-and-event-handler)
-- [11-005 Player Animation Test Harness](#11-005-player-animation-test-harness)
-- [12-006 Basic Player Movement](#12-006-basic-player-movement)
-- [13-001 Game Location Scenes](#13-001-game-location-scenes)
-- [14-002 Create Farmyard Scene](#14-002-create-farmyard-scene)
-- [15-003 Add Farmhouse and Collision Tiles](#15-003-add-farmhouse-and-collision-tiles)
-- [16-004 Add Scenery](#16-004-add-scenery)
-- [17-005 Add Cinemachine Confiner](#17-005-add-cinemachine-confiner)
-- [18-006 Scenery Fader](#18-006-scenery-fader)
-- [19-001 Item Details Class](#19-001-item-details-class)
-- [20-002 Scriptable Object Item List](#20-002-scriptable-object-item-list)
-- [21-003 Item Class and Commodity Prefabs](#21-003-item-class-and-commodity-prefabs)
-- [22-004 InventoryManager Class](#22-004-inventorymanager-class)
-- [23-005 Custom Property Attribute Drawer](#23-005-custom-property-attribute-drawer)
-- [24-006 Create Item Nudge Class](#24-006-create-item-nudge-class)
-- [25-007 Player Item Pickup](#25-007-player-item-pickup)
-- [26-008 Player Inventory Bar UI](#26-008-player-inventory-bar-ui)
-- [27-009 Add Collected Items To Inventory Bar](#27-009-add-collected-items-to-inventory-bar)
-- [28-010 Drop Items From Inventory Bar](#28-010-drop-items-from-inventory-bar)
-- [29-011 Reorder Items In Inventory Bar](#29-011-reorder-items-in-inventory-bar)
-- [30-012 Item Description Pop Ups](#30-012-item-description-pop-ups)
-- [31-013 More Items In The Scene](#31-013-more-items-in-the-scene)
+- [1-001 Course Introduction](#001-course-introduction)
+- [2-001 Unity and Visual Studio Installation](#001-unity-and-visual-studio-installation)
+- [3-002 SourceTree Installation and Using SourceTree With The Supplied Unity Project](#002-sourcetree-installation-and-using-sourcetree-with-the-supplied-unity-project)
+- [4-001 Game Architecture and Course Structure](#001-game-architecture-and-course-structure)
+- [5-001 Project Creation](#001-project-creation)
+- [6-002 Review Custom Package](#002-review-custom-package)
+- [7-001 Player Gameobject Set-Up](#001-player-gameobject-set-up)
+- [8-002 Player Class and Abstract Singleton Class](#002-player-class-and-abstract-singleton-class)
+- [9-003 Player Animation Controllers](#003-player-animation-controllers)
+- [10-004 Events and Event Handler](#004-events-and-event-handler)
+- [11-005 Player Animation Test Harness](#005-player-animation-test-harness)
+- [12-006 Basic Player Movement](#006-basic-player-movement)
+- [13-001 Game Location Scenes](#001-game-location-scenes)
+- [14-002 Create Farmyard Scene](#002-create-farmyard-scene)
+- [15-003 Add Farmhouse and Collision Tiles](#003-add-farmhouse-and-collision-tiles)
+- [16-004 Add Scenery](#004-add-scenery)
+- [17-005 Add Cinemachine Confiner](#005-add-cinemachine-confiner)
+- [18-006 Scenery Fader](#006-scenery-fader)
+- [19-001 Item Details Class](#001-item-details-class)
+- [20-002 Scriptable Object Item List](#002-scriptable-object-item-list)
+- [21-003 Item Class and Commodity Prefabs](#003-item-class-and-commodity-prefabs)
+- [22-004 InventoryManager Class](#004-inventorymanager-class)
+- [23-005 Custom Property Attribute Drawer](#005-custom-property-attribute-drawer)
+- [24-006 Create Item Nudge Class](#006-create-item-nudge-class)
+- [25-007 Player Item Pickup](#007-player-item-pickup)
+- [26-008 Player Inventory Bar UI](#008-player-inventory-bar-ui)
+- [27-009 Add Collected Items To Inventory Bar](#009-add-collected-items-to-inventory-bar)
+- [28-010 Drop Items From Inventory Bar](#010-drop-items-from-inventory-bar)
+- [29-011 Reorder Items In Inventory Bar](#011-reorder-items-in-inventory-bar)
+- [30-012 Item Description Pop Ups](#012-item-description-pop-ups)
+- [31-013 More Items In The Scene](#013-more-items-in-the-scene)
 
 # 1-001 Course Introduction
 
