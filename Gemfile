@@ -13,5 +13,5 @@ gem "jekyll-remote-theme"
 
 gem "appraisal"
 
-# 锁定 html-pipeline 到稳定版本
-gem "html-pipeline", "~> 2.14.0"
+# 在 Gemfile 中添加
+gem "jekyll", "~> 3.9.4"
