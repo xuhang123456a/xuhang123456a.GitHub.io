@@ -9,8 +9,6 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-      - name: Install dependencies
-
       - name: Setup Pages
         id: configure-pages
         uses: actions/configure-pages@v5
