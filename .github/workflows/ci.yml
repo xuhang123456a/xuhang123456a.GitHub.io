@@ -24,8 +24,4 @@ jobs:
         run: bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-      - name: Install dependencies
-        run: |
-          bundle install --jobs 4 --retry 3
-          # 显式安装 appraisal
-          bundle exec gem install appraisal
+
